@@ -1,5 +1,5 @@
 file=c00f30f89847610d151d266a1390fec7,4781,build.xml
-file=050f177c95f3a24bd7b6bfdbaf41f7f8,176,lib/3d-oc_.jar/META-INF/MANIFEST.MF
+file=050f177c95f3a24bd7b6bfdbaf41f7f8,176,lib/3d-oc_.jar/META-INF/MANIFEST.MFs
 file=f8926595d520354b99bea290f48467bd,1146,lib/3d-oc_.jar/Objects3D/Coordinates3D.java
 file=a9d27190e0d27a140db437d99013dd62,42327,lib/3d-oc_.jar/Objects3D/Counter3D.java
 file=a79b7b01d51871617aace7a1626dd87f,8604,lib/3d-oc_.jar/Objects3D/Object3D.java
